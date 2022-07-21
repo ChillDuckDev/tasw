@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0x5B59e9FFABada94631bA06f756Ce633dcBa58060",
+  "SCAN_LINK": "https://etherscan.io/address/0x5B59e9FFABada94631bA06f756Ce633dcBa58060",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "The Americans (Women)",
+  "SYMBOL": "TAsW",
+  "MAX_SUPPLY": 1000,
+  "DISPLAY_COST": 0.01,
+  "freetokens":0,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-americans-women",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://www.twitter.com/TheAmericans_W",
+  "SHOW_BACKGROUND": true
+}
